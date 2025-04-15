@@ -5,6 +5,7 @@ I created a new repo to preserve timestamps of the repository: https://github.co
 // This code was written week of December 20th, 2018.
 // I suppose with Roblox's introduction to Byfron making this code obsolete, I can stop gatekeeping this.
 // This uses Sloppey's INT3 Locator function. This is fragments of the exploit I maintained (for years, btw), ripped out and placed into a single file.
+// Note: "lua_" was simply my naming convention for Roblox's internal lua functions. They are NOT referencing the vanilla Lua library.
 
 #pragma once
 
